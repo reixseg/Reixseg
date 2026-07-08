@@ -50,7 +50,7 @@
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="aspnet" width="72" height="72"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-netcore/dot-netcore-original.svg" alt="aspnetmvc" width="72" height="72"/></td>
+
 <td></td>
 </tr>
 </table>
