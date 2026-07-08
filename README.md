@@ -24,7 +24,7 @@
 <table align="center" width="100%">
 <tr>
 <td align="center" valign="top" width="25%">
-<strong>Lenguajes</strong>
+<strong>Backend</strong>
 <br>
 <table align="center" cellspacing="10" cellpadding="0">
 <tr>
@@ -40,7 +40,7 @@
 </table>
 </td>
 <td align="center" valign="top" width="25%">
-<strong>Web</strong>
+<strong>Frontend</strong>
 <br>
 <table align="center" cellspacing="10" cellpadding="0">
 <tr>
