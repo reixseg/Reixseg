@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="72" height="72"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="72" height="72"/></td>
+</td>
 <td></td>
 </tr>
 </table>
@@ -62,6 +62,7 @@
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="72" height="72"/></td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="72" height="72"/></td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="72" height="72"/>
 <td></td>
 </tr>
 </table>
