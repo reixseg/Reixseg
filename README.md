@@ -34,8 +34,8 @@
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="72" height="72"/></td>
-</td>
-<td></td>
+<td align="center"></td>
+<td align="center"></td>
 </tr>
 </table>
 </td>
@@ -50,8 +50,8 @@
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="aspnet" width="72" height="72"/></td>
-
-<td></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-netcore/dot-netcore-original.svg" alt="aspnetmvc" width="72" height="72"/></td>
+<td align="center"></td>
 </tr>
 </table>
 </td>
@@ -62,8 +62,7 @@
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="72" height="72"/></td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="72" height="72"/></td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="72" height="72"/>
-<td></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="72" height="72"/></td>
 </tr>
 </table>
 </td>
