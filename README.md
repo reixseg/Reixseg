@@ -1,3 +1,4 @@
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"></img> Sobre mí
 
 <table align="center" width="100%">
@@ -22,8 +23,24 @@
 
 <table align="center" width="100%">
 <tr>
-<td align="center" valign="top" width="33%">
-<strong>Frontend</strong>
+<td align="center" valign="top" width="25%">
+<strong>Lenguajes</strong>
+<br>
+<table align="center" cellspacing="10" cellpadding="0">
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="72" height="72"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="72" height="72"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="72" height="72"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="72" height="72"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="72" height="72"/></td>
+<td></td>
+</tr>
+</table>
+</td>
+<td align="center" valign="top" width="25%">
+<strong>Web</strong>
 <br>
 <table align="center" cellspacing="10" cellpadding="0">
 <tr>
@@ -31,26 +48,31 @@
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="72" height="72"/></td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="72" height="72"/></td>
 </tr>
-</table>
-</td>
-<td align="center" valign="top" width="33%">
-<strong>Backend</strong>
-<br>
-<table align="center" cellspacing="10" cellpadding="0">
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="72" height="72"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="72" height="72"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="72" height="72"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="aspnet" width="72" height="72"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-netcore/dot-netcore-original.svg" alt="aspnetmvc" width="72" height="72"/></td>
+<td></td>
 </tr>
 </table>
 </td>
-<td align="center" valign="top" width="33%">
+<td align="center" valign="top" width="25%">
 <strong>Bases de Datos</strong>
 <br>
 <table align="center" cellspacing="10" cellpadding="0">
 <tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="72" height="72"/></td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="72" height="72"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="72" height="72"/></td>
+<td></td>
+</tr>
+</table>
+</td>
+<td align="center" valign="top" width="25%">
+<strong>Herramientas</strong>
+<br>
+<table align="center" cellspacing="10" cellpadding="0">
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="72" height="72"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="72" height="72"/></td>
 <td align="center"><img src="https://img.icons8.com/color/96/000000/database.png" alt="cursor" width="72" height="72"/></td>
 </tr>
 </table>
