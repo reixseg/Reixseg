@@ -1,4 +1,3 @@
-```md
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"></img> Sobre mí
 
 <table align="center" width="100%">
@@ -124,4 +123,3 @@ Estoy disponible para:
 </p>
 
 Última edición: 08/07/2026
-```
